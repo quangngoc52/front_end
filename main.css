@@ -1,0 +1,18 @@
+
+.header{
+    width: 100px;
+    height: 100px;
+    background-image: url(https://vnn-imgs-a1.vgcloud.vn/image.vtc.vn/resize/th/upload/2021/04/27/xe2-16514649.jpg);
+    background-size:100% auto;
+    background-repeat: no-repeat;
+    
+}
+.header:hover{
+
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://vnn-imgs-a1.vgcloud.vn/image.vtc.vn/resize/th/upload/2021/04/27/xe2-16514649.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
