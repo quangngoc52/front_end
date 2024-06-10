@@ -15,4 +15,24 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+.menu{
+    display: flex;
+    justify-content: space-around;
+}
+.thedau{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(88, 209, 209);
+}
+.thedau1{
+    display: flex;
+    flex-direction: row;
+  justify-content: space-around;  
+}
+.thedau11{
+    color: brown;
+    display: inline-block;
+    flex:inline;
+    margin: 0 8px;
 
+}
